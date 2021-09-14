@@ -1,2 +1,3 @@
 # GitRepo
-This is my first Git Repo project using GCP
+I am editing the README file. Adding some more details about the
+ project description.
